@@ -1,0 +1,2 @@
+# TITANIC
+Titanic is one of the most infamous shipwrecks in history. The widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. It seems some groups of people were more likely to survive than others. It's a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
